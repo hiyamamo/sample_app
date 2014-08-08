@@ -32,3 +32,4 @@ end
 
 gem 'execjs'
 gem 'rb-readline'
+gem 'shoulda-matchers','2.6.0'
